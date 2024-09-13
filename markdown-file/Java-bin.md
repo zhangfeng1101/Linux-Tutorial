@@ -379,6 +379,12 @@ Full thread dump Java HotSpot(TM) 64-Bit Server VM (25.151-b12 mixed mode):
 
 "C2 CompilerThread0" #5 daemon prio=9 os_prio=0 tid=0x00007f8a5c0af800 nid=0x2ef1 waiting on condition [0x0000000000000000]
    java.lang.Thread.State: RUNNABLE
+   
+  zjf "C2 CompilerThread0" #5 daemon prio=9 os_prio=0 tid=0x00007f8a5c0af800 nid=0x2ef1 waiting on condition [0x0000000000000000]
+   java.lang.Thread.State: RUNNABLE
+
+   
+   
 
 "Signal Dispatcher" #4 daemon prio=9 os_prio=0 tid=0x00007f8a5c0aa800 nid=0x2ef0 runnable [0x0000000000000000]
    java.lang.Thread.State: RUNNABLE
